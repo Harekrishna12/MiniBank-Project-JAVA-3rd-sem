@@ -40,3 +40,4 @@ java -cp "outTest:out:lib/*" org.junit.runner.JUnitCore service.BankServiceTest
 ## Menu
 1. Open account  2. Deposit  3. Withdraw  4. Transfer  5. Statement  6. List accounts  7. Report  8. Exit
 "# MiniBank-Project-JAVA-3rd-sem" 
+"# MiniBank-Project-JAVA-3rd-sem" 
